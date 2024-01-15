@@ -38,7 +38,7 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
 <hr>
 
-**UML Classwokr Diagram:** <br>
+**UML Classwork Diagram:** <br>
 
 ![image](https://github.com/toarnabtrainer/USA_BA_259/assets/111301975/c08aa290-7763-4b11-afcf-0ebf11c8384e)
 
